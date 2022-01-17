@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AddToCartTestSuit" verbose="1">
+
+	<test name="AddToCartTest1">
+		<classes>
+			<class name="com.amazon.AddToCartTest" />
+		</classes>
+	</test>
+</suite>
